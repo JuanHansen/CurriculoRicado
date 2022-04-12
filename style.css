@@ -1,0 +1,28 @@
+body{
+  background-color: #0068f0;
+  text-align: center;
+}
+
+.teste1{
+  background-color: #030202;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.teste2 {
+  background-color: #030202;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.jair,.bolsonaro {
+  background-color: #fbff00;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
